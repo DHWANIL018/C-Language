@@ -1,0 +1,1 @@
+int maths = 50,english =  50,science = 50 ;
